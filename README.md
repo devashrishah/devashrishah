@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Statistical Modeling and Machine learning
 - 💞️ I’m looking to collaborate on anything related to Data
 - 🧠 Skilled in Python, SQl, R, Tableau/PowerBI
-- ⚡ I can create amazing Data Visualizations for you!
+- ⚡ I can create insightful Data Visualizations for you!
 
 <!---
 devashrishah/devashrishah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
